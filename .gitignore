@@ -1,0 +1,4 @@
+/.env
+/artifacts/
+/node_modules/
+/yarn.lock
